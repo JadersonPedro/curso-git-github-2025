@@ -16,4 +16,3 @@ git logo -> mostra todo o histórico de commit
 8. git status
 9. Volta para para o passo 3
 
-fodase
